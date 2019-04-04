@@ -1,0 +1,19 @@
+Introduction to Abstraction and Encapsulation
+
+
+Abstraction is the layer which provide the functionality to hide the internal process.
+Encapsulation is about clubbing things below the abstraction layer.
+
+Both Abstraction and Encapsulation co-exists.
+Example: Suppose a driver wants to stop the car. 
+What that driver would do? Apply the break.
+    But the point is does that driver know the internal process for applying the break? Not at all.
+    Well this is known as abstraction.
+    Again, whatever things were happening inside the car for applying break were working together.
+    Well this is known as encapsulation.
+
+Example: Append operation in list.
+When we use append append() on list does we know that what's happening inside? No.
+Basically here append() acts like layer of abstraction which has been encapsulated in the list class.
+
+
