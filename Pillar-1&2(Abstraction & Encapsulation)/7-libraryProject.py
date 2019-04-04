@@ -1,4 +1,5 @@
-'''Problem statement is already given in the Udemy Resource/Section-5'''
+'''Problem statement'''
+'''Create a Simple library management system'''
 
 class Library:
     def __init__(self,books):
